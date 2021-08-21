@@ -36,11 +36,11 @@ namespace GitandGitHubCommandsPractice
             // 
             this.AndreiForm.AutoSize = true;
             this.AndreiForm.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.AndreiForm.Location = new System.Drawing.Point(127, 240);
+            this.AndreiForm.Location = new System.Drawing.Point(98, 255);
             this.AndreiForm.Name = "AndreiForm";
-            this.AndreiForm.Size = new System.Drawing.Size(321, 55);
+            this.AndreiForm.Size = new System.Drawing.Size(472, 55);
             this.AndreiForm.TabIndex = 0;
-            this.AndreiForm.Text = "Andrei\'s Form";
+            this.AndreiForm.Text = "Andrei Binasoy Form";
             this.AndreiForm.Click += new System.EventHandler(this.label1_Click);
             // 
             // AndreisForm
@@ -48,7 +48,7 @@ namespace GitandGitHubCommandsPractice
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.ClientSize = new System.Drawing.Size(579, 547);
+            this.ClientSize = new System.Drawing.Size(684, 556);
             this.Controls.Add(this.AndreiForm);
             this.Name = "AndreisForm";
             this.Text = "Andrei\'s Form";
